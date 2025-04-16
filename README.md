@@ -1,5 +1,7 @@
 # Cuphead Dark Souls Mod
 
+<img src="https://raw.githubusercontent.com/adamlevit70/CupheadDarkSoulsMod/main/CupheadDarkSoulsModImage.png" style="width:700px; height:auto;" />
+
 ### How to download:
 
   1.   Download the x86 or x64 version of BepInEx 5. https://github.com/BepInEx/BepInEx/releases (Tested with 5.4.23.2)
