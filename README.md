@@ -15,3 +15,7 @@
 - Only 1 Weapon in levels that are not plane.
 - Gives an S grade on every successful level.
 - Works on the newest version of Cuphead, including DLC levels.
+
+### Known Issues:
+
+- When two players are playing, the "try again" screen doesn't appear after they die.
