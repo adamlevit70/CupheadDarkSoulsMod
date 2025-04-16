@@ -2,9 +2,9 @@
 
 ## How to download:
 
-Download the x86 or x64 version of BepInEx 5. https://github.com/BepInEx/BepInEx/releases (Tested with 5.4.23.2)
-Extract the contents of BepInEx zip to the Cuphead game folder.
-Run game, then close.
+Download the x86 or x64 version of BepInEx 5. https://github.com/BepInEx/BepInEx/releases (Tested with 5.4.23.2)\n
+Extract the contents of BepInEx zip to the Cuphead game folder.\n
+Run game, then close.\n
 Place CupheadDarkSoulsMod.dll into the Cuphead\BepInEx\plugins\ directory.
 
 ## Features:
