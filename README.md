@@ -1,13 +1,13 @@
 # Cuphead Dark Souls Mod
 
-## How to download:
+### How to download:
 
-Download the x86 or x64 version of BepInEx 5. https://github.com/BepInEx/BepInEx/releases (Tested with 5.4.23.2)\n
-Extract the contents of BepInEx zip to the Cuphead game folder.\n
-Run game, then close.\n
-Place CupheadDarkSoulsMod.dll into the Cuphead\BepInEx\plugins\ directory.
+  1.   Download the x86 or x64 version of BepInEx 5. https://github.com/BepInEx/BepInEx/releases (Tested with 5.4.23.2)
+  2.   Extract the contents of BepInEx zip to the Cuphead game folder.
+  3.   Run game, then close.
+  4.   Place CupheadDarkSoulsMod.dll into the Cuphead\BepInEx\plugins\ directory.
 
-## Features:
+### Features:
 
 - Only 1 HP.
 - Only 1 Weapon in levels that are not plane.
